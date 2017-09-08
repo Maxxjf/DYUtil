@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="F:\studio APP\app\DyDemo\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="F:\studio APP\app\DyDemo\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.3.1_39b4ab70805040b2949dc58cc78bb831a022090f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ki\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife\7.0.1\d5d13ea991eab0252e3710e5df3d6a9d4b21d461\butterknife-7.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="F:\studio APP\app\DyDemo\app\build\intermediates\pre-dexed\debug\butterknife-7.0.1_2710ae63e5b7fd379bc5b944287203bf5447d656.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ki\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="F:\studio APP\app\DyDemo\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_0aa4f17f1697d4c6cc4303b2532e5f07b214503c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\studio APP\app\DyDemo\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="F:\studio APP\app\DyDemo\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.3.1_c5d117c73a8f5b567ca69e8e801ae5dff8e746db.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\studio APP\app\DyDemo\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="F:\studio APP\app\DyDemo\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.3.1_1e6b560cb74a576aaf5d3d5a268273ae78ee8f42.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\studio APP\app\DyDemo\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="F:\studio APP\app\DyDemo\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.3.1_da8ec1e58624c18170ee5f315330938a1cfe18f7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\studio APP\app\DyDemo\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="F:\studio APP\app\DyDemo\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.3.1_d025b7864368332c861fe3dc70b2c6f75b9caa6c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ki\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="F:\studio APP\app\DyDemo\app\build\intermediates\pre-dexed\debug\glide-3.7.0_46d9c9bdefd02ca807907cd289acc3fba9081941.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\studio APP\app\DyDemo\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="F:\studio APP\app\DyDemo\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.3.1_8c92b72504f83dae828ea07cb3129000619a191c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\studio APP\app\DyDemo\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="F:\studio APP\app\DyDemo\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.3.1_aa5b0d54cca3bd8f565c353c61e40f231ce03ef6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\studio APP\app\DyDemo\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="F:\studio APP\app\DyDemo\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.3.1_6307e4c7cceec4e9b15734136a994e5c138c9b8a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\studio APP\app\DyDemo\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="F:\studio APP\app\DyDemo\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.3.1_7341fef288ea79684951b0f0e251192c8701c5d4.jar" />
+    </item>
+
+</items>
