@@ -3,7 +3,6 @@ package com.gzdefine.dydemo;
 import android.app.Application;
 
 
-
 /**
  * Created by K on 2016/3/21.
  */
@@ -15,5 +14,6 @@ public class App extends Application {
     @Override
     public void onCreate() {
         super.onCreate();
+
     }
 }

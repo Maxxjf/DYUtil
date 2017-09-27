@@ -6,7 +6,6 @@ import android.graphics.Canvas;
 import android.graphics.PixelFormat;
 import android.graphics.drawable.Drawable;
 import android.os.Bundle;
-import android.support.v7.app.AppCompatActivity;
 import android.widget.ImageView;
 
 import com.gzdefine.dydemo.DYUtil;
@@ -18,7 +17,7 @@ import java.io.File;
 import butterknife.Bind;
 import butterknife.ButterKnife;
 
-public class ImageLoadingActivity extends AppCompatActivity {
+public class ImageLoadingActivity extends BaseActivity {
 
     @Bind(R.id.iv1)
     ImageView iv1;
@@ -44,7 +43,7 @@ public class ImageLoadingActivity extends AppCompatActivity {
 
 // 加载应用资源
         int resource = R.mipmap.ic_launcher;
-        DYUtil.getInstance().loadImage(this,resource,iv2);
+        DYUtil.getInstance().loadImage(this,R.mipmap.ic_launcher,iv2);
 
 // 加载二进制流
         byte[] image = getImageBytes();

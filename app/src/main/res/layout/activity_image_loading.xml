@@ -4,8 +4,10 @@
     android:id="@+id/activity_image_loading"
     android:layout_width="match_parent"
     android:orientation="vertical"
+    android:fitsSystemWindows="true"
     android:layout_height="match_parent"
     tools:context="com.gzdefine.dydemo.View.ImageLoadingActivity">
+
 <ScrollView
     android:layout_width="match_parent"
     android:layout_height="match_parent">

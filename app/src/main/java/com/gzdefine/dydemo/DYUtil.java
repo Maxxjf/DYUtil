@@ -4,6 +4,7 @@ import android.app.Activity;
 import android.widget.ImageView;
 
 import com.bumptech.glide.Glide;
+import com.gzdefine.dydemo.Util.VibratorUtil;
 
 /**
  * @author Max
@@ -29,11 +30,10 @@ public class DYUtil {
     /**
      * Glide.with(this)
      .load(url)
-     .placeholder(R.drawable.loading)              加载中的图片
+     .placeholder(R.drawable.loading)               加载中的图片
      .error(R.drawable.error)                      加载错误的图片
      .diskCacheStrategy(DiskCacheStrategy.NONE)    禁止使用缓存机制
      .into(imageView);
-     * 单列模式
      *@param activity 图层act
      * @param imageView ImageView控件
      * @param object    uri： 统一标识符
@@ -43,6 +43,17 @@ public class DYUtil {
      */
     public void loadImage(Activity activity, Object object, ImageView imageView){
         Glide.with(activity).load(object).placeholder(R.mipmap.loading).error(R.mipmap.error).into(imageView);
+    }
+
+    /**
+     *这方法是用来震动的
+     * @param activity  调用该方法的Activity实例
+     * @param milliseconds 震动的时长，单位是毫秒
+     */
+
+
+    public  void Shock(Activity activity,long milliseconds){
+        VibratorUtil.Vibrate(activity,milliseconds);
     }
 
 
