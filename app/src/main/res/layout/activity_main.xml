@@ -21,12 +21,12 @@
     android:layout_width="wrap_content"
     android:layout_height="wrap_content" />
 <Button
-    android:text="Toast工具"
+    android:text="权限设置"
     android:id="@+id/bt3"
     android:layout_width="wrap_content"
     android:layout_height="wrap_content" />
 <Button
-    android:text="Log工具"
+    android:text="权限设置"
     android:id="@+id/bt4"
     android:layout_width="wrap_content"
     android:layout_height="wrap_content" />
